@@ -1,6 +1,6 @@
 # MADAssignment
-Deuel Teo Guang Zheng S10178071
-Yeo Jun Wei S10179631
+Deuel Teo Guang Zheng S10178071,
+Yeo Jun Wei S10179631,
 Loh Yu Hong S10177991
 
 App description:
@@ -18,7 +18,7 @@ Users are able to track whatever they have donated in a list to see whatever the
 
 Roles and Contributions:
 
-Deuel: Mainpage, donation, donation history (firebase), report 
+Deuel: Mainpage, donation, donation history (firebase + check internet connectivity), report 
 Jun wei: donation history (sqllite), report
 Yu Hong: login page, report 
 
